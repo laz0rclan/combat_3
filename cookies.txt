@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+silvergames.com	TRUE	/	FALSE	1999999999	u	72887879006776a9
+.google.com	TRUE	/	FALSE	1999999999	NID	87=Xehk0VKyqcUeu_ONAvVibbg5NNhxE_CkIdUbLwWV6uJTqKHelIQSDijCWd2wKrRqmlND4GPKhrt-6xDXPZ13-at7uSgkVss_Ui1wkz1kem7KFe7st_bKSDT_JRaXzQ0i
+silvergames.com	TRUE	/	FALSE	1999999999	c	deleted
+silvergames.com	TRUE	/	FALSE	1999999999	last-played	1128_4651_3074_2557_3545_4512_1666_3690_3598_2027_4414_1815_4060_2764_1214_307_5201_4582
+
